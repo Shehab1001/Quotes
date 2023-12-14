@@ -1,0 +1,30 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 12vh;
+}
+
+
+
+.icon {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+}
+
+button {
+    width: 15rem;
+    height: 4rem;
+    background-color: #09c;
+    border-radius: 10px;
+    border-color: transparent;
+    color: white;
+    font-size: 25px;
+    transition: all 0.5s;
+}
+
+button:hover {
+    background-color: rgb(223, 92, 5);
+}
